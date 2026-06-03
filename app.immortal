@@ -1,2 +1,2 @@
 val name = "Unsterblicher Entwickler";
-var status = "Das Plugin-System läuft im Browser!";
+render("Willkommen, " + name + "! Der Compiler läuft.");
