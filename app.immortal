@@ -1,6 +1,6 @@
 class Spieler(name, klasse, level);
 
-val name = "Phönix";
-val held = new Spieler(name, "Magier", 99);
+val name = "Phoenixmagie";
+val held = new Spieler(name, "Phoenix", 99);
 
 render("Willkommen $name! Dein Charakter ist ein ${held.klasse} auf Level ${held.level}.");
